@@ -1,0 +1,18 @@
+
+           <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <link href="{{url_for('static',filename='css/output.css')}}" rel="stylesheet">
+            </head>
+            <body>
+                {% include 'header.jinja' with context %}
+                <!-- Start of caligula.jinja -->
+            <article class="prose prose-slate m-6 p-2 mx-auto max-w-7xl text-center"></article>
+
+            <!-- End of caligula.jinja -->
+            {% include 'footer.jinja' with context %}
+            </body>
+            </html>
+           

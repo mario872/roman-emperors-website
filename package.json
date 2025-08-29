@@ -1,0 +1,19 @@
+{
+  "name": "roman-emperors-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx @tailwindcss/cli -i ./static/css/input.css -o ./static/css/output.css --watch",
+    "dev-server": "watchmedo auto-restart --directory=./static/markdown --pattern=\"*.css;*.md;*.html;*.js\" --recursive python principale.py",
+    "build-website": "python build_website.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
