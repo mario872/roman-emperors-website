@@ -1,0 +1,24 @@
+
+           <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <link href="{{url_for('static',filename='css/output.css')}}" rel="stylesheet">
+                <link href="{{url_for('static',filename='css/md.css')}}" rel="stylesheet">
+                <link href="{{url_for('static', filename='logo.png')}}" rel="icon">
+                <title>augustus-caesar</title>
+            </head>
+            <body>
+                {% include 'header.jinja' with context %}
+                <!-- Start of augustus-caesar.jinja -->
+            <article class="prose prose-slate m-6 p-2 mx-auto max-w-7xl text-center"><h1>Augstus Caesar</h1>
+<h4>GAIUS JULIUS CAESAR OCTAVIANUS</h4>
+<p>Octavian (Octavianus in Latin, or Augustus Caesar late in life) was only 19 when his Uncle Julius Caesar was assassinated, and Augustus was adopted by Julius in his will. Shortly after this, Mark Antony, Julius Caesar's partner in his 5th consulship, called Julius' assassination a murder by conspiracy and the chief conspirators were very quickly driven out of Rome. During the power vacuum that occurred after that, the Second Triumvirate was formed between Octavian, Mark Antony, and Aemilius Lepidus (deputy to Julius Caesar). They then made put this partnership into law in 43BC, effectively naming themselves dictators, and it was the beginning of the end for the Republic of Rome.</p>
+</article>
+
+            <!-- End of augustus-caesar.jinja -->
+            {% include 'footer.jinja' with context %}
+            </body>
+            </html>
+           

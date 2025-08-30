@@ -1,10 +1,13 @@
 from flask import Flask, render_template, render_template_string, request, redirect
 import os
-import markdown
 from markdown_it import MarkdownIt
+from mdit_py_plugins import footnote
+
+in_prod = os.getenv("PRODUCTION", "false").lower() == "true"
+print(" * In production!!! Don\'t mess this up!" if in_prod else " * In development mode")
 
 app = Flask(__name__)
-md = MarkdownIt("commonmark").enable('table')
+md = MarkdownIt("commonmark").use(footnote.footnote_plugin).enable('table')
 
 def save_markdown_page(markdown_file_path: str, output_file: str):
     """
@@ -16,7 +19,7 @@ def save_markdown_page(markdown_file_path: str, output_file: str):
 
     markdown_name = markdown_file_path.split("/")[-1].replace(".md", "")
 
-    mrkdown = md.render(open(f'{markdown_file_path}', 'r').read())
+    mrkdown = md.render(open(f'{markdown_file_path}', 'r', encoding="utf-8").read())
     html_page = """
            <!DOCTYPE html>
             <html lang="en">
@@ -24,6 +27,9 @@ def save_markdown_page(markdown_file_path: str, output_file: str):
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <link href="{{{{url_for('static',filename='css/output.css')}}}}" rel="stylesheet">
+                <link href="{{{{url_for('static',filename='css/md.css')}}}}" rel="stylesheet">
+                <link href="{{{{url_for('static', filename='logo.png')}}}}" rel="icon">
+                <title>{0}</title>
             </head>
             <body>
                 {{% include 'header.jinja' with context %}}
@@ -36,8 +42,10 @@ def save_markdown_page(markdown_file_path: str, output_file: str):
             </html>
            """.format(markdown_name, markdown_name.title().replace('-', ' ').replace('_', ' '), mrkdown)
     
-    with open(output_file, "w") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         f.write(html_page)
+        
+    print(f" * Generated {markdown_name} page at {output_file}")
 
 @app.route('/')
 def index():
@@ -54,11 +62,14 @@ def emperor(emperor):
 
 @app.route('/easter-egg')
 def easter_egg():
-    return redirect("https://www.youtube.com/watch?v=v8enlTBXR5Y", code=302)
+    return redirect("https://www.youtube.com/watch?v=WS3Lkc6Gzlk", code=302)
 
 if __name__ == "__main__":
     for md_page in os.listdir("./static/markdown/"):
         if md_page.endswith(".md"):
-            save_markdown_page(f"./static/markdown/{md_page}", f"./templates/emperors/{md_page.replace(".md", ".html")}")
+            save_markdown_page(f"./static/markdown/{md_page}", f"./templates/emperors/{md_page.replace('.md', '.html')}")
 
-    app.run(debug=True, port=4305)
+    if in_prod:
+        app.run(host='0.0.0.0', port=80)
+    else:
+        app.run(debug=True, port=4305, host='0.0.0.0')

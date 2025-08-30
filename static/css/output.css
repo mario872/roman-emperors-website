@@ -19,6 +19,10 @@
     --color-gray-900: oklch(21% 0.034 264.665);
     --spacing: 0.25rem;
     --container-7xl: 80rem;
+    --text-lg: 1.125rem;
+    --text-lg--line-height: calc(1.75 / 1.125);
+    --text-xl: 1.25rem;
+    --text-xl--line-height: calc(1.75 / 1.25);
     --text-2xl: 1.5rem;
     --text-2xl--line-height: calc(2 / 1.5);
     --text-3xl: 1.875rem;
@@ -174,6 +178,15 @@
   }
 }
 @layer utilities {
+  .visible {
+    visibility: visible;
+  }
+  .absolute {
+    position: absolute;
+  }
+  .fixed {
+    position: fixed;
+  }
   .static {
     position: static;
   }
@@ -185,6 +198,9 @@
   }
   .mx-auto {
     margin-inline: auto;
+  }
+  .contents {
+    display: contents;
   }
   .flex {
     display: flex;
@@ -281,20 +297,36 @@
       color: var(--color-gray-300);
     }
   }
+  h3 {
+    font-size: var(--text-xl);
+    line-height: var(--tw-leading, var(--text-xl--line-height));
+    color: var(--color-gray-900);
+    @media (prefers-color-scheme: dark) {
+      color: var(--color-gray-300);
+    }
+  }
+  h4 {
+    font-size: var(--text-lg);
+    line-height: var(--tw-leading, var(--text-lg--line-height));
+    color: var(--color-gray-900);
+    @media (prefers-color-scheme: dark) {
+      color: var(--color-gray-300);
+    }
+  }
   a {
-    color: var(--color-blue-400);
+    color: var(--color-blue-700);
     &:hover {
       @media (hover: hover) {
-        color: var(--color-blue-600);
+        color: var(--color-blue-500);
       }
     }
     @media (prefers-color-scheme: dark) {
-      color: var(--color-blue-700);
+      color: var(--color-blue-400);
     }
     @media (prefers-color-scheme: dark) {
       &:hover {
         @media (hover: hover) {
-          color: var(--color-blue-500);
+          color: var(--color-blue-600);
         }
       }
     }
@@ -415,6 +447,15 @@
     color: var(--color-gray-900);
     @media (prefers-color-scheme: dark) {
       color: var(--color-gray-300);
+    }
+  }
+  .footnotes-sep {
+    margin-block: calc(var(--spacing) * 4);
+    border-top-style: var(--tw-border-style);
+    border-top-width: 1px;
+    border-color: var(--color-gray-900);
+    @media (prefers-color-scheme: dark) {
+      border-color: var(--color-gray-300);
     }
   }
 }

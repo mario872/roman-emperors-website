@@ -1,0 +1,4 @@
+# Augstus Caesar
+#### GAIUS JULIUS CAESAR OCTAVIANUS
+
+Octavian (Octavianus in Latin, or Augustus Caesar late in life) was only 19 when his Uncle Julius Caesar was assassinated, and Augustus was adopted by Julius in his will. Shortly after this, Mark Antony, Julius Caesar's partner in his 5th consulship, called Julius' assassination a murder by conspiracy and the chief conspirators were very quickly driven out of Rome. During the power vacuum that occurred after that, the Second Triumvirate was formed between Octavian, Mark Antony, and Aemilius Lepidus (deputy to Julius Caesar). They then made put this partnership into law in 43BC, effectively naming themselves dictators, and it was the beginning of the end for the Republic of Rome.

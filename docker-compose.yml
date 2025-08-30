@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    container_name: roman-emperors-project
+    ports:
+      - "4306:80"
+    restart: unless-stopped
