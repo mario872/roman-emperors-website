@@ -11,7 +11,7 @@ When Octavius returned to Rome in 28BC, he (surprisingly) renounced his dictator
 
 In 18BC Augustus introduced legislation to promote men with 3 or more children in politics, and anyone who refused to marry could be cut off from their inheritance. Additionally, he forced husbands to divorce their wife is she cheated on him.
 
-Augustus did do more things before his death, but the most interesting/funny/concerning thing he did is described in Augustus' chapter of the The Twelve Caesars:
+Augustus did do more things before his death, but the most interesting/funny/concerning thing he did is described in Augustus' chapter of the The Twelve Caesars, after hearing his legions were crushingly defeated in Germania:
 
 *"""
 Adeo denique consternatum ferunt, ut per continuos menses barba capilloque summisso caput interdum foribus illideret vociferans: "Quintili Vare, legiones redde![^2]
