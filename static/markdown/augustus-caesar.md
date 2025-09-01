@@ -19,6 +19,8 @@ Adeo denique consternatum ferunt, ut per continuos menses barba capilloque summi
 
 Which translates to: "In fact, they say that he was so greatly affected that for several months in succession he cut neither his beard nor his hair, and sometimes he would dash his head against a door, crying: "Quintilius Varus, give me back my legions!"[^3]
 
+By his death is 14AD he had already given his stepson Tiberius the power to rule over the entirety of the empire apart from Rome, and upon his death, those powers passed to him too.
+
 ## QUAM CELERRIME[^4]
 - DIES NATALIS: 23rd September, 63BC
 - PATER: Gaius Octavius
