@@ -34,7 +34,7 @@ def save_markdown_page(markdown_file_path: str, output_file: str):
             <body>
                 {{% include 'header.jinja' with context %}}
                 <!-- Start of {0}.jinja -->
-            <article class="prose prose-slate m-6 p-2 mx-auto max-w-7xl text-center">{2}</article>
+            <article class="prose prose-slate m-2 p-2 mx-auto max-w-7xl text-center">{2}</article>
 
             <!-- End of {0}.jinja -->
             {{% include 'footer.jinja' with context %}}
