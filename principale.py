@@ -7,6 +7,8 @@ in_prod = os.getenv("PRODUCTION", "false").lower() == "true"
 print(" * In production!!! Don\'t mess this up!" if in_prod else " * In development mode")
 
 app = Flask(__name__)
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0 if not in_prod else 31536000  # Cache static files for 1 year in production, no cache in development
+
 md = MarkdownIt("commonmark").use(footnote.footnote_plugin).enable('table')
 
 def save_markdown_page(markdown_file_path: str, output_file: str):
@@ -15,6 +17,9 @@ def save_markdown_page(markdown_file_path: str, output_file: str):
 
     Args:
         markdown_name str: The name of the markdown file, without .md suffix
+        output_file str: The path to save the output HTML file to
+    Returns:
+        None
     """
 
     markdown_name = markdown_file_path.split("/")[-1].replace(".md", "")
