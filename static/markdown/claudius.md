@@ -3,7 +3,7 @@
 
 ## IN BREVI
 #### *In Short*
-Claudius' physical disfigurements and self-exaggerated simple-mindedness allowed him to make it to adulthood without being seen as a threat by people in power. He liked to take advice from his freedmen and let them rule over vast areas of the Empire, allowing him to take a much higher-level ruling type. He invaded Britain to great success, but also had many wives that were not faithful or loving toward him. One may have tried to take over the empire, and the other killed him to allow her son, Nero to rule the empire.
+Claudius' physical disfigurements and self-exaggerated simple-mindedness allowed him to make it to adulthood without being seen as a threat by people in power. He liked to take advice from his freedmen and let them rule over vast areas of the Empire, allowing him to take a much higher-level ruling type. He invaded Britain to great success, but also had many wives who were not faithful or loving toward him. One may have tried to take over the empire, and the other killed him to allow her son, Nero to rule the empire.
 
 ## VITA ET FAMILIA[^1]
 #### *Life and Family*
