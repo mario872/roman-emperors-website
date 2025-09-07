@@ -1,6 +1,6 @@
 FROM python:3.11-slim-bullseye
 LABEL maintainer="jamesaglynn10@gmail.com"
-LABEL version="0.6"
+LABEL version="0.7"
 LABEL description="Docker image for deployment to production for Roman Emperors Project"
 
 ENV PRODUCTION=true

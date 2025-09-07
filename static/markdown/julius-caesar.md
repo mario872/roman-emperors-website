@@ -31,7 +31,7 @@ When Caesar returned to Rome in 45BC he refused the title of King, but ruled as 
 
 [^1]: All information in this section is from: David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 26
 [^2]: Kathryn Tempest, Brutus: The Noble Conspirator ([Google Ebooks](https://books.google.com.au/books?id=mmo3DwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), 2020), 101-102
-[^3]: Gaius Suetonius Tranquillus and translated by Bill Thayer (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:6
+[^3]: Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:6
 [^4]: David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 26
 [^5]: Ibid, 17
 [^6]: Ibid, 26-27

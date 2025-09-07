@@ -42,7 +42,7 @@ By his death is 14AD he had already given his stepson Tiberius the power to rule
 [^1]: All info in this section is from David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 47
 [^2]: (GAVE UP SEX) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 40
 [^3]: (ADULTEROUS) Ibid.
-[^4]: (ADOPTED) Gaius Suetonius Tranquillus and translated by Bill Thayer (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:83
+[^4]: (ADOPTED) Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:83
 [^5]: (INTO LAW) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 36
 [^6]: (300!) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 36
 [^7]: (RETIRE) Ibid, 38
@@ -55,7 +55,7 @@ By his death is 14AD he had already given his stepson Tiberius the power to rule
 [^14]: (GRAIN IS GONE) Ibid, 47
 [^15]: (MARTIAL LAWS) Ibid, 51
 [^16]: (LATIN MADNESS) Gaius Suetonius Tranquillus, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Suetonius/12Caesars/Augustus*.html)), 2:23
-[^17]: (ENGLISH MADNESS) Gaius Suetonius Tranquillus and translated by Bill Thayer (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html)), 2:23
+[^17]: (ENGLISH MADNESS) Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html)), 2:23
 [^18]: (EQUAL POWER) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 55
 
 

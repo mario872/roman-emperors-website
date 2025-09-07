@@ -3,6 +3,7 @@
 
 ## IN BREVI
 #### *In Short*
+Claudius' physical disfigurements and self-exaggerated simple-mindedness allowed him to make it to adulthood without being seen as a threat by people in power. He liked to take advice from his freedmen and let them rule over vast areas of the Empire, allowing him to take a much higher-level ruling type. He invaded Britain to great success, but also had many wives that were not faithful or loving toward him. One may have tried to take over the empire, and the other killed him to allow her son, Nero to rule the empire.
 
 ## VITA ET FAMILIA[^1]
 #### *Life and Family*
@@ -14,11 +15,18 @@
 
 ## LUDIBUNDA VERA
 #### *Fun Facts*
- - TODO FIND FACTS
+ - He wrote books on the history of the Etruscans and the Carthaginians[^2]
 
 ## IN LONGUM
 #### *In Long*
-The Praetorian Guard likely knew they were going to need a successor to Caligula, and his uncle Claudius was a good enough choice. Although he wasn't as cruel a man as Caligula, he also disliked the Senators, and liked to take advice from his freedmen. In 43AD he commanded a very successful invasion of Britain, boosting his popularity immensely. He also commisioned the port named "`portus`" at the mouth of the River Tiber, which could handle year round shipments of grain, needed to make bread, a staple of the Roman diet.
-In the late 40's it was discovered by Claudius that his young wife had been cheating on him *extensively*, even going so far as to have a mock wedding with one of her lovers. This is not to say Claudius did not also have lovers, but it was alright for him, because he was the Emperor. He had his wife and several of her lovers executed in 48AD[]. After executing his young wife and her lovers, he married his niece. The law plainly *didn't* alow this, so he made sure to change it. His niece, that, conicedently, was the same one that Tiberius had exiled to an island with her sons. Well, she made sure to bring her son Nero into the public light, and when she realised that Claudius' son Britannicus couldn't rule until next year (55AD), she had Claudius' mushrooms poisoned, leaving her son Nero to rule the Roman Empire. Claudius lived for 63 years, and ruled the empire for approximately 13 years.
+The Praetorian Guard likely knew they were going to need a successor to Caligula, and his uncle Claudius was a good enough choice. Claudius was physically disfigured with a club foot, and possibly cerebral palsy. He learned to exaggerate both these and his simple-mindedness so that he didn't appear a threat to anyone in power, and in so avoid his death. Although he wasn't as cruel a man as Caligula, he also disliked the Senators, and liked to take advice from his freedmen. He let his freedmen handle the running of most of the immense empire[^3], as it allowed him to rule from a high level position. In 43AD he commanded a very successful invasion of Britain, boosting his popularity immensely. He also commissioned the port named "`Portus`" at the mouth of the River Tiber, which could handle year-round shipments of grain, needed to make bread, a staple of the Roman diet.
+
+In the late 40's it was discovered by Claudius that his young wife had been cheating on him *extensively*, even going so far as to marry one of her lovers[^4]. This is not to say Claudius did not also have lovers, but it was alright for him, because he was the Emperor. It's possible that his wife and her lover were planning to take over Rome and get rid of Claudius, or something else entirely. Either way, Claudius had his wife and several of her lovers executed in 48AD[^5]. After executing his young wife and her lovers, he married his niece. The law plainly *didn't* alow this, so he made sure to change it.[^6] His niece, that, coincidentally, was the same one that Tiberius had exiled to an island with her sons. Well, she made sure to bring her son Nero into the public light, and when she realised that Claudius' son Britannicus couldn't rule until next year (55AD), she (or possibly someone else) had Claudius' mushrooms poisoned[^7], leaving her son Nero to rule the Roman Empire. Claudius died in 54AD, having lived for 63 years, and ruled the empire for approximately 13 years.
 
 [^1]: All info in this section is from David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 64
+[^2]: (ETRUSCAN AND CARTHAGINIAN HISTORIES) Suetonius and Translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html)), 5:42
+[^3]: (FREEDMEN RULED MOST) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 64
+[^4]: (WIFE MARRIED LOVER) Suetonius and Translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html)), 5:26
+[^5]: (WIFE TO DEATH) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 65
+[^6]: (CHANGE THE LAW) Suetonius and Translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html)), 5:26
+[^7]: (POISON MUSHROOMS) Ibid, 5:44
