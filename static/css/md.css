@@ -10,9 +10,12 @@ h4:first-of-type {
     margin-bottom: 20px;
 }
 
+h4:not(:first-of-type) {
+    margin-bottom: 10px;
+}
+
 h2 {
     margin-top: 20px;
-    margin-bottom: 10px;
 }
 
 .footnotes-sep {
