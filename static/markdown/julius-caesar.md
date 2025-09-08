@@ -3,21 +3,21 @@
 
 ## IN BREVI
 #### *In Short*
-In 60BC Julius Caesar formed the First Triumvirate (an informal political alliance) with Gnaeus Magnus Pompey and Marcus Licinius Crassus. Shortly after, he left Rome to wage war against Gaul, and was magnificently successful. Crassus attempted to invade the Pathian Empire to the East, but this went disastrously for him and he was killed in battle. The Triumvirate then dissolved and Caesar invaded Italy (very illegally), and after four years of civil war with Pompey, he won while Pompey fled to Egypt where he was killed by Ptolemy XIII. In 46BC Caesar was granted the dictatorship and consulship for ten years, and granted it in perpetuity two years later. Caeasar was assassinated on the Ides of March (15th March) in 44BC.
+In 60BC Julius Caesar formed the First Triumvirate (an informal political alliance) with Gnaeus Magnus Pompey and Marcus Licinius Crassus. Shortly after, he left Rome to wage war against Gaul, and was magnificently successful. Crassus attempted to invade the Pathian Empire to the East, but this went disastrously for him and he was killed in battle. The Triumvirate then dissolved and Caesar invaded Italy (very illegally), and after four years of civil war with Pompey he won, while Pompey fled to Egypt where he was killed by Ptolemy XIII. In 46BC Caesar was granted the dictatorship and consulship for ten years, and granted it in perpetuity two years later. Caeasar was assassinated on the Ides of March (15th March) in 44BC.
 
 ## VITA ET FAMILIA[^1]
 #### *Life and Family*
 - DIES NATALIS: 13th July, 100BC
-- PATER: Gaius Julius Caesar (SENIOR)
+- PATER: Gaius Julius Caesar (Senior)
 - MATER: Aurelia Cotta
 - LIBERI: Julia Caesaris (by Cornelia Cinna minor) & Caesarion (by Cleopatra, unacknowledged)
 - DIES MORTIS: 15th March, 44BC
 
 ## LUDIBUNDA VERA
 #### *Fun Facts*
-- Shakespeare popularised the belief that Julius Caesar's last words were "You too, Brutus?", but in fact they were either *nothing* or "Kaì sý, téknon?" (in Greek for some reason?) meaning "You too, child?"[^2]
-- Julius Caesar had a very noble family tree: he claimed to be descended from the Fourth King of Rome on one side, and from the god Venus on the other.[^3]
-- Caesar was not only taken by later Emperors as a title, but also the root of the modern Kaiser[^4], Czar and Tsar[^5].
+- • Shakespeare popularised the belief that Julius Caesar's last words were "You too, Brutus?", but in fact they were either *nothing* or "Kaì sý, téknon?" (in Greek for some reason?) meaning "You too, child?"[^2]
+- • Julius Caesar had a very noble family tree: he claimed to be descended from the Fourth King of Rome on one side, and from the god Venus on the other.[^3]
+- • Caesar was not only taken by later Emperors as a title, but also the root of the modern Kaiser[^4], Czar and Tsar[^5].
 
 ## IN LONGUM
 #### *In Long*
@@ -29,17 +29,17 @@ With Crassus dead, the Triumvirate was dissolved. Julius Caesar invaded Italy by
 
 When Caesar returned to Rome in 45BC he refused the title of King, but ruled as a King of Rome would have. His time as dictator did not last long however, as he was assassinated on the Ideas of March, 44BC in front of the entire Senate, his last words apparently being either *nothing* or, when he saw Brutus about to stab him: "Kaì sý, téknon?"[^2], which translates from Greek to "You too, child?"
 
-[^1]: All information in this section is from: David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 26
-[^2]: Kathryn Tempest, Brutus: The Noble Conspirator ([Google Ebooks](https://books.google.com.au/books?id=mmo3DwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), 2020), 101-102
-[^3]: Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:6
-[^4]: Oxford English Dictionary, “Kaiser (n.), Etymology,” March 2025, https://doi.org/10.1093/OED/1612886737.
-[^5]: Oxford English Dictionary, “tsar | czar (n.), Etymology,” December 2024, https://doi.org/10.1093/OED/1177152091
-[^6]: David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 26
-[^7]: Ibid, 17
-[^8]: Ibid, 26-27
-[^9]: Ibid, 28
-[^10]: Plutarch and translated by Bill Thayer (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html)), Caesar:15
-[^11]: David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 30-31
-[^12]: Ibid, 33
+[^1]: ㅤ1. All information in this section is from: David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 26
+[^2]: ㅤ2. Kathryn Tempest, Brutus: The Noble Conspirator ([Google Ebooks](https://books.google.com.au/books?id=mmo3DwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), 2020), 101-102
+[^3]: ㅤ3. Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:6
+[^4]: ㅤ4. Oxford English Dictionary, “Kaiser (n.), Etymology,” March 2025, https://doi.org/10.1093/OED/1612886737.
+[^5]: ㅤ5. Oxford English Dictionary, “tsar | czar (n.), Etymology,” December 2024, https://doi.org/10.1093/OED/1177152091
+[^6]: ㅤ6. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 26
+[^7]: ㅤ7. Ibid, 17
+[^8]: ㅤ8. Ibid, 26-27
+[^9]: ㅤ9. Ibid, 28
+[^10]: ㅤ10. Plutarch and translated by Bill Thayer (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Caesar*.html)), 1:15
+[^11]: ㅤ11. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 30-31
+[^12]: ㅤ12. Ibid, 33
 
 

@@ -15,7 +15,7 @@ Tiberius was an emperor who created and cultivated a climate of fear in his empi
 
 ## LUDIBUNDA VERA
 #### *Fun Facts*
-Tiberius really loved cucumbers, so much so that he had garden beds with wheels constructed so that he would never be unable to eat them.
+Tiberius really loved cucumbers, so much so that he had garden beds with wheels constructed so that they would never be too far away from him.
 
 "`Cartilaginum generis extraque terram est cucumis, mira voluptate Tiberio principi expetitus. nullo quippe non die contigit ei, pensiles eorum hortos promoventibus in solem rotis olitoribus rursusque hibernis diebus intra specularium munimenta revocantibus.`"[^2]
 
@@ -23,20 +23,19 @@ Which translates to "The cucumber belongs to the cartilaginous class of plants, 
 
 ## IN LONGUM
 #### *In Long*
-Tiberius already had a strong grip of rule over most of the Empire before Augustus' death, and it became even tighter afterwards. Shortly after his ascension to the position of Emperor, 7 legions staged mutinies because they were not being allowed to retire, being treated badly, and being underpaid[^4], but these were swiftly dealt with by Tiberius' son Drusus and newly appointed command of the Praetorian Guard, Aelius Sejanus. Tiberius started a tyrannical rule, repeatedly invoking the `lex maiestatis`, (which was accusing people of high treason, but expanded by Tiberius to nearly any insult to him[^5]), and if they were found guilty, he got a share of their land. In 19AD, Tiberius' nephew and heir appare
-nt, named Germanicus, died, and rumours flew he was poisoned by the Governor of Syria. Shortly after a visit to the governor of Syria by Sejanus (A prefect of the Praetorian Guard) however, the governor "committed suicide and *slit his own throat*"[^6]. In 23AD, Drusus died as well, and it turned out to be a plot by Sejanus[^7]. It is possible that from as far back as 19AD, he had been in an affair with Drusus' wife, and he supposed that if he made himself essential to the Emperor, he would be appointed successor. Marrying Drusus' widow would cement his position close to Tiberius; however, Tiberius forbade this, although he did begin to put *more* trust in him from that point onward. In 28AD, Tiberius retired and handed running of the Empire over to Sejanus. 
+Tiberius already had a strong grip of rule over most of the Empire before Augustus' death, and it became even tighter afterwards. Shortly after his ascension to the position of Emperor, 7 legions staged mutinies because they were not being allowed to retire, being treated badly, and being underpaid[^4], but these were swiftly dealt with by Tiberius' son Drusus and newly appointed command of the Praetorian Guard, Aelius Sejanus. Tiberius started a tyrannical rule, repeatedly invoking the `lex maiestatis`, (which was accusing people of high treason, but expanded by Tiberius to nearly any insult to him[^5]), and if they were found guilty, he got a share of their land. In 19AD, Tiberius' nephew and heir apparent, named Germanicus, died, and rumours flew he was poisoned by the Governor of Syria. Shortly after a visit to the governor of Syria by Sejanus (A prefect of the Praetorian Guard), the governor "committed suicide and *slit his own throat*"[^6]. In 23AD, Drusus died as well, and it turned out to be a plot by Sejanus[^7]. It is possible that from as far back as 19AD, he had been in an affair with Drusus' wife, and he supposed that if he made himself essential to the Emperor, he would be appointed successor. Marrying Drusus' widow would cement his position close to Tiberius; however, Tiberius forbade this, although he did begin to put *more* trust in him from that point onward. In 28AD, Tiberius retired and handed running of the Empire over to Sejanus. 
 Only a year later he banished Germanicus' wife and children to an island because they were continuously and repeatedly blaming him for Germanicus' death.
 In 31AD Sejanus hatched a plan to keep his power by killing Tiberius and his remaining male family, but Germanicus' mother sent a slave girl to warn Tiberius. The Senate had Sejanus strangled and his body thrown to a violent mob.[^8]
-Tiberius' final years were spent at Capri (an island off the coast of Italy where Augustus had developed a villa) and died there. Tiberius spend his time brooding, and as the years passed, grew less and less confident that Caligula, his adopted grandson would be a good emperor. But he spent his time looking to the stars, and discovered that Caligula's ascension could not be halted.[^9] Tiberius died in 37AD, of natural causes, although there are stories that he was smothered by Caligula, or the (new) prefect of the Praetorian Guard[^10].
+Tiberius' final years were spent at Capri (an island off the coast of Italy where Augustus had developed a villa) and died there. Tiberius spent his time brooding, and as the years passed, grew less and less confident that Caligula, his adopted grandson would be a good emperor. But he spent his time looking to the stars, and discovered that Caligula's ascension could not be halted.[^9] Tiberius died in 37AD, of natural causes, although there are stories that he was smothered by Caligula, or the (new) prefect of the Praetorian Guard[^10].
 
 
-[^1]: All info in this section is from David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 60
-[^2]: (CUCUMBERS) Pliny the Elder, The Natural History, (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/19*.html)) 19:23
-[^3]: (CUCUMBERS IN ENGLISH) Pliny the Elder, The Natural History (Translated), (Available at [tufts.edu](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D19%3Achapter%3D23)), 19:23
-[^4]: (MUTINIES) Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Tiberius*.html)), 3:25
-[^5]: (EXPANDED TREASON) Ibid, 3:58
-[^6]: David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 59
-[^7]: (SEJANUS KILLED DRUSUS) Cassius Dio and translated by Bill Thayer, Roman History (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/e/roman/texts/cassius_dio/57*.html)) 57:22
-[^8]: (ALL OF PARAGRAPH) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 57
-[^9]: (STARGAZING, ASTROLOGY, AND CALIGULA'S UNSTOPPABLE REIGN) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 61
-[^10]: (CALIGULA OR PRAETORIAN) Cassius Dio and Translated by Bill Thayer, Roman History (Available at [uchicao.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/58*.html)) 58:28
+[^1]: ㅤ1. All info in this section is from David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 60
+[^2]: ㅤ2. Pliny the Elder, The Natural History, (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/19*.html)) 19:23
+[^3]: ㅤ3. Pliny the Elder, The Natural History (Translated), (Available at [tufts.edu](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D19%3Achapter%3D23)), 19:23
+[^4]: ㅤ4. Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Tiberius*.html)), 3:25
+[^5]: ㅤ5. Ibid, 3:58
+[^6]: ㅤ6. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 59
+[^7]: ㅤ7. Cassius Dio and translated by Bill Thayer, Roman History (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/e/roman/texts/cassius_dio/57*.html)) 57:22
+[^8]: ㅤ8. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 57
+[^9]: ㅤ9. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 61
+[^10]: ㅤ10. Cassius Dio and Translated by Bill Thayer, Roman History (Available at [uchicao.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/58*.html)) 58:28

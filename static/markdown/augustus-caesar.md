@@ -15,14 +15,14 @@ Octavian (later Augustus Caesar) formed the Second Triumvirate with Mark Antony 
 
 ## LUDIBUNDA VERA
 #### *Fun Facts*
- - He claims he gave up sex in his late teens for his health[^2]
- - He claims he only had adulterous relationships to get dirt on his enemies[^3]
+ - • He claims he gave up sex in his late teens for his health[^2]
+ - • He claims he only had adulterous relationships to get dirt on his enemies[^3]
 
 ## IN LONGUM
 #### *In Long*
-Octavian (Octavianus in Latin, or Augustus Caesar late in life) was only 19 when his Uncle Julius Caesar was assassinated, and he was adopted by Julius in his will[^4]. Shortly after this, Mark Antony, Julius Caesar's partner in his 5th consulship, called Julius' assassination a murder by conspiracy and the chief conspirators were very quickly driven out of Rome. During the power vacuum that occurred after that, the Second Triumvirate was formed between Octavian, Mark Antony, and Aemilius Lepidus (deputy to Julius Caesar). They then made put this partnership into law in 43BC[^5], effectively naming themselves dictators, and it was the beginning of the end for the Republic of Rome.
+Octavian (Octavianus in Latin, or Augustus Caesar late in life) was only 19 when his Uncle Julius Caesar was assassinated, and he was adopted by Julius in his will[^4]. Shortly after this, Mark Antony, Julius Caesar's partner in his 5th consulship, called Julius' assassination a murder by conspiracy and the chief conspirators were very quickly driven out of Rome. During the power vacuum that occurred after that, the Second Triumvirate was formed between Octavian, Mark Antony, and Aemilius Lepidus (deputy to Julius Caesar). They then put this partnership into law in 43BC[^5], effectively naming themselves dictators, and it was the beginning of the end for the Republic of Rome.
 
-Their first noble decision as dictators of Rome, was to instill fear into their people by killing over 300 members of the upper class[^6], including Cicero, a political opponent of Antony. They created this climate of fear, because they simply didn't have enough money to pay their troops, and hoped they would be too terrified to ask. In 42BC Antony fought with his and Octavian's troops against Brutus and Cassius (two of Julius Caesar's assassins) and their troops while Octavius stayed in his tent too sick to fight.[^7] They won this battle, and continued to fight against the assassins' supporters, repeatedly renewing the triumvirate. In 36BC Octavian defeated Sextus Pompey, stripped Lepidus of his powers and made him retire[^8]. While Antony (who was married to Octavian's sister[^9]) was busying partying with Cleopatra in Alexandria, Octavian passed many laws to make Rome a better place. These included making sure people had enough to eat, and not settling his retired soldiers on other Italians' land.[^10]
+Their first noble decision as dictators of Rome, was to instill fear into their people by killing over 300 members of the upper class[^6], including Cicero, a political opponent of Antony. They created this climate of fear because they simply didn't have enough money to pay their troops, and hoped they would be too terrified to ask. In 42BC Antony fought with his and Octavian's troops against Brutus and Cassius (two of Julius Caesar's assassins) and their troops while Octavius stayed in his tent too sick to fight.[^7] They won this battle, and continued to fight against the assassins' supporters, repeatedly renewing the triumvirate. In 36BC Octavian defeated Sextus Pompey, stripped Lepidus of his powers and made him retire[^8]. While Antony (who was married to Octavian's sister[^9]) was busying partying with Cleopatra in Alexandria, Octavian passed many laws to make Rome a better place. These included making sure people had enough to eat, and not settling his retired soldiers on other Italians' land.[^10]
 
 The legal authority of the triumviri expired at the end of 33BC and shortly after Octavian marched into the Senate with an armed guard, proclaimed that he was now the only head of state, and was granted more powers by the Senate to go to war against Antony and Cleopatra[^11]. Antony and Cleopatra, after seeing their naval forces were stuck in the Bay of Actium (off the East Coast of Greece) narrowly escaped capture themselves, until a year later when Octavian invaded Alexandria. Antony committed suicide in Cleopatra's arms, and shortly after she used a venomous snake to kill herself.[^12]
 
@@ -39,24 +39,22 @@ Which translates to: "In fact, they say that he was so greatly affected that for
 By his death is 14AD he had already given his stepson Tiberius the power to rule over the entirety of the empire apart from Rome, and upon his death, those powers passed to him too.[^19]
 
 
-[^1]: All info in this section is from David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 47
-[^2]: (GAVE UP SEX) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 40
-[^3]: (ADULTEROUS) Ibid.
-[^4]: (ADOPTED) Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:83
-[^5]: (INTO LAW) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 36
-[^6]: (300!) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 36
-[^7]: Ibid, 35
-[^8]: (RETIRE) Ibid, 38
-[^9]: (MARRIED) Ibid
-[^10]: (GOOD LAWS) Ibid, 39
-[^11]: (TRIUMVIRATE OVER) Ibid, 40
-[^12]: (BYE, BYE, BYE) Ibid, 41
-[^13]: (NO DICTATORSHIP) Ibid, 42
-[^14]: (SPAIN) Ibid, 46-47
-[^15]: (GRAIN IS GONE) Ibid, 47
-[^16]: (MARTIAL LAWS) Ibid, 51
-[^17]: (LATIN MADNESS) Gaius Suetonius Tranquillus, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Suetonius/12Caesars/Augustus*.html)), 2:23
-[^18]: (ENGLISH MADNESS) Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html)), 2:23
-[^19]: (EQUAL POWER) David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 55
-
-
+[^1]: ㅤ1. All info in this section is from David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 47
+[^2]: ㅤ2. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 40
+[^3]: ㅤ3. Ibid.
+[^4]: ㅤ4. Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html)), 1:83
+[^5]: ㅤ5. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 36
+[^6]: ㅤ6. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 36
+[^7]: ㅤ7. Ibid, 35
+[^8]: ㅤ8. Ibid, 38
+[^9]: ㅤ9. Ibid
+[^10]: ㅤ10. Ibid, 39
+[^11]: ㅤ11. Ibid, 40
+[^12]: ㅤ12. Ibid, 41
+[^13]: ㅤ13. Ibid, 42
+[^14]: ㅤ14. Ibid, 46-47
+[^15]: ㅤ15. Ibid, 47
+[^16]: ㅤ16. Ibid, 51
+[^17]: ㅤ17. Gaius Suetonius Tranquillus, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Suetonius/12Caesars/Augustus*.html)), 2:23
+[^18]: ㅤ18. Gaius Suetonius Tranquillus and translated by Bill Thayer, The Twelve Caesars (Available at [uchicago.edu](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html)), 2:23
+[^19]: ㅤ19. David Potter, Emperors of Rome (London: Quercus Publishing, 2017), 55
