@@ -20,9 +20,11 @@ Similarly, footnote numbering is done manually as well, and at the bottom of the
 
 ## Contributing
 If you are a scholarly person who does not know how to use this newfangled technology such as GitHub and python, just shoot me an email at jamesaglynn10@gmail.com with your page following the styling guide below and I'll do my best to help add it to the website.
+
 If you wish to contribute a new page for an emperor please follow these steps (this assumes you know how to use google and have a basic understanding of how git and github is used):
 1. Fork the git repository
 2. In the `static/markdown` directory add a new page with the emperor's name and the file extension `.md`. If you don't know what markdown is, ~~what are you doing here~~ [this website](https://www.markdownguide.org) may be of use to you. Try and follow this general scaffold:
+```
 # **EMPEROR NAME** [Bolded H1]
 #### *EMPEROR LATIN NAME* [Italics H4]
 
@@ -51,7 +53,7 @@ A much longer summary of the emperor's life, generally 2-5 paragraphs in length.
 [^2]: ㅤ2. References are chicago style, although currently they are not perfect either, as I kind of mutilated it during the course of the project.
 [^3]: ㅤ3. James Glynn, REP Style Guide (San Francisco: Github Publishing, 2025), 5:2 (BOOK)
 [^4]: ㅤ5. Ibid, 5:4
-
+```
 3. Add a picture of a bust of the emperor, cropped to 250x250 pixels, preferably with the same background as the rest of them, `static/emperors-background.png`. Using remove.bg with the magic background function will also offer this photo as a background. Save this as `static/emperor-name.png`.
 4. Edit `templates/index.jinja` to add the new emperor link.
 
