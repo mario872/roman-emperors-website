@@ -1,6 +1,9 @@
 services:
   web:
-    build: .
+    build:
+      context: .
+    platform: linux/amd64
+    image: roman-emperors-project-web:latest
     container_name: roman-emperors-project
     ports:
       - "4306:80"
